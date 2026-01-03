@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="ContainsDuplicateII_219/ContainsDuplicateII_219.csproj" Id="3f292cea-cd90-4d60-8847-b1d066067420" />
   <Project Path="ContainsDuplicate_217/ContainsDuplicate_217.csproj" />
+  <Project Path="GroupAnagrams_49/GroupAnagrams_49.csproj" />
+  <Project Path="ProductOfArrayExceptSelf_238/ProductOfArrayExceptSelf_238.csproj" Id="b465ef93-98c2-4f39-87b7-b5d44aca73da" />
   <Project Path="ValidAnagram_242/ValidAnagram_242.csproj" />
 </Solution>
