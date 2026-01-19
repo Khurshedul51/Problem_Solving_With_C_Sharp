@@ -2,6 +2,10 @@
   <Project Path="ContainsDuplicateII_219/ContainsDuplicateII_219.csproj" Id="3f292cea-cd90-4d60-8847-b1d066067420" />
   <Project Path="ContainsDuplicate_217/ContainsDuplicate_217.csproj" />
   <Project Path="GroupAnagrams_49/GroupAnagrams_49.csproj" />
+  <Project Path="IntegerToRoman_12/IntegerToRoman_12.csproj" Id="c805ce2a-29a4-41e5-a774-5d7fcdacb197" />
+  <Project Path="LongestConsecutiveSequence_128/LongestConsecutiveSequence_128.csproj" Id="65e6ac2f-3110-41e1-ba4b-18eba6be01c2" />
   <Project Path="ProductOfArrayExceptSelf_238/ProductOfArrayExceptSelf_238.csproj" Id="b465ef93-98c2-4f39-87b7-b5d44aca73da" />
+  <Project Path="TopKFrequentElements_347/TopKFrequentElements_347.csproj" Id="50e2c321-2cb7-4ca4-a535-69eed8769a32" />
   <Project Path="ValidAnagram_242/ValidAnagram_242.csproj" />
+  <Project Path="VerifyingAnAlienDictionary_953/VerifyingAnAlienDictionary_953.csproj" Id="79350af4-0397-40cc-a9ec-0a620dd4f92c" />
 </Solution>
